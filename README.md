@@ -1,1 +1,2 @@
-# FluxServe-Event-Driven-HTTP-1.1-Reliable-UDP-Server-Java-NIO-
+ MiniServe: Multi-Client HTTP Server in C
+
